@@ -5,6 +5,10 @@
 //  Created by Gabriel Bruno Meira on 04/10/23.
 //
 
+// Comentário para Testar a Branch para inserir novas conversões.
+// Importante fazer uma pesquisa de quais conversões são mais utilizadas.
+
+
 import SwiftUI
 
 struct ContentView: View {
